@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning JavaScript & React
 - 💻 I am building on my Python, HTML & CSS knowledge
 - 👀 I’m interested in learning C, C#, Svelte & Ruby on Rails 
-- 💞️ Offline I love entymology, pinning butterflies 🦋 and beetles 🪲
+- 💞️ Offline I love entymology 🦋 and reading 📚
 - 📫 How to reach me: [via Linkedin](https://www.linkedin.com/in/sarah-kernahan-can/)
 
 <!---
